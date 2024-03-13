@@ -5,4 +5,5 @@
 3. 自行配置maven环境，使用idea打开服务端项目，修改application.properties下的数据库配置
 4. 连接本地数据库，创建market数据库，执行提供的sql脚本
 5. 请使用5.7版本以上的MySQL
+6. 
 
